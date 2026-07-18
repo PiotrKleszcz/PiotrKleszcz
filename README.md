@@ -12,7 +12,7 @@ Hands-on labs built on Kali Linux, mapped to **NIS2 Art. 21/23**:
 
 Making application security standards accessible to the Polish-speaking community:
 
-- **[OWASP ASVS 5.0](https://github.com/PiotrKleszcz/OWASP-ASVS-Polish-Translation)** — Application Security Verification Standard
+- **[OWASP ASVS 5.0](https://github.com/PiotrKleszcz/OWASP-ASVS-Polish-Translation)** — the Application Security Verification Standard
 - **[OWASP Top 10 for LLM Applications](https://github.com/PiotrKleszcz/OWASP-LLM-Top10-Polish-Translation)** — security risks in LLM-based apps
 
 ## 🏢 Fifth Ace
