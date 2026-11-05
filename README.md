@@ -1,6 +1,8 @@
 # Piotr Kleszcz
 
-🛡️ **Cybersecurity Specialist & Founder of [Fifth Ace](https://fifthace.net)** — pentesting, NIS2 readiness and vCISO services for UK SMEs.
+I’m Piotr Kleszcz, founder of [Fifth Ace](https://www.fifthace.net). I help UK small and medium-sized businesses identify security gaps and decide what to fix first.
+
+For UK businesses with 10–100 employees preparing for Cyber Essentials, I offer a [Cyber Essentials Readiness Audit](https://www.fifthace.net/#cennik). I assess your readiness against the scheme’s five technical controls and give you a prioritised plan of what to fix before you apply for certification.
 
 ## 🔬 Security Labs
 
