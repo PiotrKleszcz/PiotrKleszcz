@@ -6,9 +6,10 @@ For UK businesses with 10–100 employees preparing for Cyber Essentials, I offe
 
 ## 🔬 Security Labs
 
-Hands-on labs built on Kali Linux, mapped to **NIS2 Art. 21/23**:
+- **[Lost laptop and data recovery](https://github.com/PiotrKleszcz/Cybersecurity-Labs/tree/main/data-at-rest-lab)** — I simulated a lost laptop, checked what someone could read from its encrypted disk without the key, and tested how the owner could recover access.
+- **[Website security audit](https://github.com/PiotrKleszcz/Cybersecurity-Labs/tree/main/web-security-audit-lab)** — I audited Fifth Ace’s own website, checked its TLS configuration and security headers, and documented the fixes.
 
-**[Cybersecurity-Labs](https://github.com/PiotrKleszcz/Cybersecurity-Labs)** — firewall hardening, Suricata IDS, DNS spoofing detection, vulnerability assessment, antivirus testing, ransomware detection.
+[Browse all security labs](https://github.com/PiotrKleszcz/Cybersecurity-Labs)
 
 ## 🌍 OWASP Translations (Polish)
 
